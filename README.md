@@ -31,10 +31,10 @@ Researchers, doctors, general population ...
 ...
 
 
-Timeline
-Project kickoff: Monday, April 13
-Static prototype: Sunday, April 18 -- Hackathon: Saturday 17 - 7 hours to work
-Interactive prototype: Sunday, April 25
-Report: ¿?
+## Timeline
+**Project kickoff:** Monday, April 13
+**Static prototype:** Sunday, April 18 -- Hackathon: Saturday 17 - 7 hours to work
+**Interactive prototype:** Sunday, April 25
+**Report:** ¿?
 
-Deadline: ¿?
+**Deadline:** ¿?
