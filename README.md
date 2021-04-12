@@ -2,7 +2,7 @@
 
 # Working title: ...
 
-**Students**: Xavier, Oriol, Rocío, and Sara ; **Mentors**: Karma and Chan ; **Company**: Basetis
+**Students**: Xavier, Oriol, Rocío, and Sara ; **Mentors**: Karma and Chan ; **Company**: Basetis - https://www.basetis.com/
 
 ### Current summary
 - ...
@@ -31,7 +31,7 @@ Researchers, doctors, general population ...
 ...
 
 
-#### Timeline
+#### TIMELINE
 **Project kickoff:** Monday, April 13
 **Static prototype:** Sunday, April 18 -- Hackathon: Saturday 17 - 7 hours to work
 **Interactive prototype:** Sunday, April 25
