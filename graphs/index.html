@@ -73,18 +73,20 @@ d3.json('https://raw.githubusercontent.com/sarachodosh/workshop2-Basetis/main/gr
     .data(nodes)
     .join("circle")
       .attr("r", 5)
-      .attr("fill", color)
+      .attr("fill", '#000')
       .call(drag(simulation));
 
   node.append("title")
       .text(d => d.id);
 
+  console.log(links)
+
   simulation.on("tick", () => {
     link
-        .attr("x1", d => d.start.id.x)
-        .attr("y1", d => d.start.id.y)
-        .attr("x2", d => d.end.id.x)
-        .attr("y2", d => d.end.id.y);
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
     node
         .attr("cx", d => d.x)
